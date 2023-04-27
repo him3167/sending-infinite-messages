@@ -1,3 +1,7 @@
+#first install pyautogui in cmd terminal using command
+    # pip install pyautogui
+
+
 import pyautogui as pg
 import time 
 time.sleep(5)
